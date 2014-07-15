@@ -18,7 +18,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.thi.pushtest.R;
+import com.beyondchinaskynet.net.chinasky.R;
 
 import cn.jpush.android.api.BasicPushNotificationBuilder;
 import cn.jpush.android.api.CustomPushNotificationBuilder;
